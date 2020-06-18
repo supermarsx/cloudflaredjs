@@ -2,9 +2,13 @@
 
 Manage Cloudflare DNS records using this javascript module, list and update DNS records.
 
- ## Quick Start
+## Quick Start
 
-Clone this repository and require it. Refer to examples for more input.
+Clone this repository and require it or just npm install as it is below. Refer to examples for more input.
+
+```
+npm i cloudflaredjs
+```
 
 ## Usage
 
@@ -15,4 +19,3 @@ Use cases can include a dynamic IP update using a event/routine that updates Clo
 ## License
 
 Distributed under MIT License. See `license.md` for more information.
-

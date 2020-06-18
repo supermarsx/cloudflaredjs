@@ -2,7 +2,7 @@
 // jshint node:true
 
 
-var cf = require('../index'),
+var cf = require('cloudflaredjs'),
   token1 = '8jeoPZFbGeUlu0ewDWoj95i0BAunxutma_YAPp-g',
   token2 = 'OwVkTSYQg_P3bWxmiwbWt-coY7Il6YpHYMufjL5C',
   token3 = 'wwl7QxbYYb5MWkfIT_3WYSogi-jc6PHpuVtmOLYC',
