@@ -1,11 +1,11 @@
 {
   "name": "cloudflaredjs",
-  "version": "1.0.4",
-  "description": "",
+  "version": "1.0.5",
+  "description": "Manage Cloudflare DNS records",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Eduardo Mota",
   "license": "MIT"
 }
