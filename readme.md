@@ -1,5 +1,7 @@
 # CloudflaredJS
 
+``` Descontinued ```
+
 Manage Cloudflare DNS records using this javascript module, list and update DNS records.
 
 ## Quick Start
